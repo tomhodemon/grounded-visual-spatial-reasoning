@@ -1,0 +1,5 @@
+logs/
+output/
+scripts/run.sh
+data/
+.DS_Store
