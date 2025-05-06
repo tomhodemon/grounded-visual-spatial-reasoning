@@ -21,7 +21,7 @@ python -m spacy download en_core_web_sm
 ```bash
 python src/main.py \
     --split <split> \
-    --coco_instances_train_file <"coco_train_instances_file> \
+    --coco_instances_train_file <coco_train_instances_file> \
     --coco_instances_val_file <coco_val_instances_file>
 ```
 ## Download Images
